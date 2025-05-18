@@ -13,6 +13,5 @@ Just a lazy ass cat lover 🐱<br>I code as a hobby, so don’t expect much. �
 ![](https://github-contributor-stats.vercel.app/api?username=Albarefero&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Albarefero&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
